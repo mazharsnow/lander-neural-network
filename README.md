@@ -167,7 +167,7 @@ This installs:
 1. Make sure your virtual environment is activated.
 2. Run the game:
 ```bash
-   python Main.py
+   python3 Main.py
 ```
 3. In the game menu, select **Data Collection mode**.
 4. Play several episodes manually:
