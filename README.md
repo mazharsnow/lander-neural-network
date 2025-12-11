@@ -1,6 +1,6 @@
 # Lander Neural Network Controller
 
-This project is a coursework assignment implementing a neural network controller
+This project is implementing a neural network controller
 for a 2D lander game. The game randomly generates a landing pad and unsafe
 terrain; the goal is to safely land the ship on the pad without crashing.
 
